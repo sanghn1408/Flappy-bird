@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 84e452decaf45504ab67d5d66b0602df
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {instanceID: 0}
+  - wing: {fileID: 8300000, guid: d219fb1179cf0bc43b0a0fdfd8e2dee9, type: 3}
+  - point: {fileID: 8300000, guid: 200f1575f46f57b47af2e521e25a11b6, type: 3}
+  - die: {fileID: 8300000, guid: e2592506f91ba324f981ab1f980f509f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
